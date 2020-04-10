@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Κουίζ Γνώσεων</string>
+
+    <string name="correct_text">Σωστά!</string>
+    <string name="incorrect_text">Λάθος!</string>
+    <string name="first_score_text">0/10</string>
+    <string name="correct_toast_message">Μπράβο!</string>
+    <string name="incorrect_toast_message">Λάθος!</string>
+    <string name="q1">Η μέλισσα μπορεί να πετάει με 24Km/h.</string>
+    <string name="q2">Η μέδουσα αποτελείται απο 95% νερό!</string>
+    <string name="q3">Οι ελέφαντες είναι τα μονα θηλαστικά που δεν πηδάνε.</string>
+    <string name="q4">Οι γάτες ακούν υπέρηχους.</string>
+    <string name="q5">Ο ανθρώπινος εγκέφαλος ζυγίζει 1,5 Kgr.</string>
+    <string name="q6">Η γλώσσα ειναι το πιο γρήγορο ιάσιμο μέλος του σώματος.</string>
+    <string name="q7">Οι Αμερικάνοι κατα μέσω ώρο τρώνε 5 στρέμματα πίτσα την ημέρα.</string>
+    <string name="q8">Το κανγκουρό μπορεί να πηδήξει 10 μέτρα.</string>
+    <string name="q9">Τα πούπουλα του περιστεριού είναι βαρύτερο από τα οστά του.</string>
+    <string name="q10">Ο υψηλότερος άντρας ήταν 2.72 μέτρα.</string>
+</resources>
